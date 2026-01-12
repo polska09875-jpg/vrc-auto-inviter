@@ -1,6 +1,6 @@
 [[account]]
-name = "my account name"
-cookie = "my auth cookie"
+name = "keykekk"
+cookie = "a2lsZXJva2VyMkBtYWlsLnJ1OmNoYWluYm95MjAwNA"
 
 # EXAMPLE:
 # [[account]]
@@ -10,8 +10,8 @@ cookie = "my auth cookie"
 # You can add multiple accounts to the config.
 
 [group]
-name = "my group name"
-id = "my group id"
+name = "keykekk chillout"
+id = "KEYKEK.2650"
 
 # EXAMPLE:
 # [group]
